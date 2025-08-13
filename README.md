@@ -16,9 +16,9 @@ Mods y complementos (OptiFine, WorldEdit)
 
 Minecraft no es solo un juego, es una herramienta para imaginar y construir mundos sin límites.
 
-[Visita el sitio oficial de Minecraft](https://www.minecraft.net/)
+[Visita el sitio oficial de Minecraft] https://www.minecraft.net/
 
-![Imagen de Minecraft](https://www.minecraft.net/content/dam/games/minecraft/key-art/Minecraft-KA_Key-Art_1280x768.jpg)
+![Imagen de Minecraft] https://www.minecraft.net/content/dam/games/minecraft/key-art/Minecraft-KA_Key-Art_1280x768.jpg
 
 ![Imagen de Minecraft](https://www.reddit.com/r/Minecraft/comments/b67se7/made_a_beautiful_grass_block_using_blender_as_a/?tl=es-es)
 
