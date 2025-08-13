@@ -20,7 +20,7 @@ https://www.minecraft.net/
 
 https://www.minecraft.net/content/dam/games/minecraft/key-art/Minecraft-KA_Key-Art_1280x768.jpg
 
-![IMAGEN DE MINECRAFT] 
+![IMAGEN DE MINECRAFT] (Descargas/Cobblestones.png)
 
 player.on_chat("casa", function () {
     blocks.place(BLOCKS.OAK_WOOD, pos(0, 0, 0))
