@@ -20,7 +20,7 @@ Este proyecto tiene como objetivo crear un mundo personalizado en Minecraft dond
 
 [Visita el sitio oficial de Minecraft](https://www.minecraft.net/es-es)
 
-![Imagen de Minecraft](https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png)
+![Imagen de Minecraft](https://www.reddit.com/r/Minecraft/comments/1jc5r3b/where_can_i_find_this_picture_as_a_poster/?tl=es-419)
 
 ```bash
 # Comando para dar un objeto al jugador en Minecraft
