@@ -1,28 +1,27 @@
-## Proyecto Minecraft 
-El bojetivo de este proyecto es aprender a como jugar y crea cosas en minecraft y ver como 
-apesar de un ser un juego se puede aprender y se puede explorar la creatividad 
+# Proyecto: Mundo Interactivo de Minecraft 🧱
 
-Objetivos 
+Este proyecto tiene como objetivo crear un mundo personalizado en Minecraft donde los jugadores puedan explorar, construir y aprender sobre programación a través de comandos y redstone.
 
-1. Enseñar los conceptos básicos de Minecraft (sobrevivencia, construcción, crafteo).
-2. Fomentar la creatividad mediante construcciones libres y proyectos guiados.
-3. Introducir comandos y elementos de programación con bloques.
+## Objetivos del proyecto
 
-Tecnologias a utilizar 
+1. Diseñar un mundo inmersivo y personalizado.
+2. Implementar mecanismos automatizados con Redstone.
+3. Enseñar conceptos básicos de programación usando comandos de Minecraft.
 
-Minecraft: Java Edition
-Minecraft Education Edition
-Mods y complementos (OptiFine, WorldEdit)
+## Tecnologías utilizadas
 
-Minecraft no es solo un juego, es una herramienta para imaginar y construir mundos sin límites.
+- Minecraft Java Edition
+- Redstone
+- Comandos de bloque
+- Minecraft Forge (para mods)
+- Visual Studio Code (para edición de código)
 
-https://www.minecraft.net/
+> “La creatividad es la inteligencia divirtiéndose.” – Albert Einstein
 
-https://www.minecraft.net/content/dam/games/minecraft/key-art/Minecraft-KA_Key-Art_1280x768.jpg
+[Visita el sitio oficial de Minecraft](https://www.minecraft.net/es-es)
 
-![IMAGEN DE MINECRAFT] (Descargas/Cobblestones.png)
+![Imagen de Minecraft](https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png)
 
-player.on_chat("casa", function () {
-    blocks.place(BLOCKS.OAK_WOOD, pos(0, 0, 0))
-    blocks.fill(BLOCKS.OAK_PLANKS, pos(1, 0, 0), pos(5, 3, 5), FillOperation.Replace)
-})
+```bash
+# Comando para dar un objeto al jugador en Minecraft
+/give @p minecraft:diamond_sword{display:{Name:'{"text":"Espada Legendaria"}'}} 1
